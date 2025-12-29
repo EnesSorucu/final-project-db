@@ -1,0 +1,1 @@
+SELECT * FROM view_popular_discounts LIMIT 15;
